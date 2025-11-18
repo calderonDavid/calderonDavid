@@ -14,7 +14,7 @@
 <a href="https://twitter.com/@tiagoz_david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tiagoz_david" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/david-santiago-calderon-idarraga-713875286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-santiago-calderon-idarraga-713875286" height="30" width="40" /></a>
 <a href="https://instagram.com/dvd.tci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dvd.tci" height="30" width="40" /></a>
-<a href="https://discord.gg/Lacobvuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lacobvu_s" height="30" width="40" /></a>
+<a href="https://discord.gg/lacobvu_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lacobvu_s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
