@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm David Santiago Calderon Idarraga</h1>
+⁸<h1 align="center">Hi 👋, I'm David Santiago Calderon Idarraga</h1>
 <h3 align="center">A passionate Systems Engineering student from Bogotá, Colombia</h3>
 
-- 🌱 I’m currently learning **Node.js, MongoDB, Java, JavaScript, C and C++**
+- 🌱 I’m currently learning **JetpackCompos, Kotlin and Firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/calderonDavid](https://github.com/calderonDavid)
 
